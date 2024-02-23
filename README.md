@@ -1,2 +1,2 @@
 # SNHU-CS255
-The course Systems Analysis and Design covered models and methodologies used when designing systems to accomplish goals.
+This repository consists of work completed for the course Systems analysis and Design.
